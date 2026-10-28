@@ -1,0 +1,41 @@
+.container{
+   align-items:first baseline;
+    row-gap: 1em;
+    column-gap: 1em;
+    
+.box{
+    font-family: 'Courier New', Courier, monospace;
+    font-display: block;
+    font-size:small;
+    border: 4px solid brown;
+     background-color: skyblue;
+    border-radius: 20px;
+    width: 150px;
+    height: 250px;
+    font-style:normal;
+    
+}
+
+}
+#box1{
+    background-color: aqua;
+    border-color: black;
+    
+}
+#box2{
+    background-color: yellowgreen;
+     border-color: blue;
+}
+
+#box3{
+    background-color:skyblue;
+     border-color: green;
+}
+#box4{
+    background-color:violet;
+     border-color: black;
+}
+#box5{
+    background-color:lightcoral;
+     border-color: yellow;
+}
